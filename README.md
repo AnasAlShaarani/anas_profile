@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anas</h1>
 <h3 align="center">A passionate web developer from Yemen</h3>
-<img align="right" alt="Coding" width="400" src="D:\github_profile_photo.gif">
+<img align="right" alt="Coding" width="400" src="https://assets9.lottiefiles.com/packages/lf20_0yfsb3a1.json">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasalshaarani&label=Profile%20views&color=0e75b6&style=flat" alt="anasalshaarani" /> </p>
 
