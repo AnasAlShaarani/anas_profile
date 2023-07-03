@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Anas</h1>
-<h3 align="center">A passionate web developer from Yemen</h3>
+<h3 align="center">A passionate software developer from Yemen</h3>
 <img align="right" alt="Coding" width="400" src="https://assets9.lottiefiles.com/packages/lf20_0yfsb3a1.json">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasalshaarani&label=Profile%20views&color=0e75b6&style=flat" alt="anasalshaarani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasalshaarani" alt="anasalshaarani" /></a> </p>
 
-- 🌱 I’m currently learning **Vue.js, Django, and Laravel**
+- 🌱 I’m currently learning **ASP.NET Core, Vue.js, Django, Flutter, and Laravel**
 
-- 📫 How to reach me **anas.shaarani@hotmail.com**
+- 📫 How to reach me **anas.m.alshaarani@hotmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
